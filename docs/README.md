@@ -23,5 +23,5 @@ BumpSense — это Android-приложение для записи GPS-тре
 
 ## 📄 Документы
 
-- [Политика конфиденциальности](https://jillaz.github.io/razrabozavr/BumpSense-privacy-policy)
-- [Пользовательское соглашение](https://jillaz.github.io/razrabozavr/BumpSense-terms-of-service)
+- [Политика конфиденциальности](https://razrabozavr.github.io/Razrabozavr/BumpSense-privacy-policy)
+- [Пользовательское соглашение](https://razrabozavr.github.io/razrabozavr/BumpSense-terms-of-service)
