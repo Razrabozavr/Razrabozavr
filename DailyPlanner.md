@@ -54,3 +54,8 @@
 
 Все данные хранятся **локально** на вашем устройстве.  
 Никаких серверов, облаков и передачи данных третьим лицам.
+
+## 📄 Документы
+
+- [Политика конфиденциальности](https://razrabozavr.github.io/Razrabozavr/DailyPlanner-privacy-policy)
+- [Пользовательское соглашение](https://razrabozavr.github.io/Razrabozavr/DailyPlanner-terms-of-service)
